@@ -1,0 +1,101 @@
+Associative fundamentals
+
+2
+(a b)
+
+3
+(a (b c))
+((a b) c)
+
+4
+(a (b (c d)))
+(a ((b c) d))
+((a (b c)) d)
+(((a b) c) d)
+((a b) (c d))    NEW
+
+5
+(x (x (x (x x))))
+(x (x ((x x) x)))
+(x ((x (x x)) x))
+(x (((x x) x) x))
+((x (x (x x))) x)
+((x ((x x) x)) x)
+(((x (x x)) x) x)
+((((x x) x) x) x)
+
+----------------------------------------------
+a (b (c d))
+
+- a
+  - b
+    - c
+      d
+
+a b c d
+
+saw(Alice, watching(Bob, and(Charles, David)))
+Alice saw Bob watching Charles and David.
+----------------------------------------------
+a ((b c) d)
+
+- a
+  - - b
+    | c
+    d
+
+a b c, d
+
+saw(Alice, watching(and(Bob, Charles), David))
+Alice saw Bob and Charles, watching David.
+----------------------------------------------
+(a (b c)) d
+
+- - a
+  | - b
+  |   c
+  d
+
+a, b c, d
+
+saw(watching(Alice, and(Bob, Charles), David)
+Alice, watching Bob and Charles, saw David.
+----------------------------------------------
+((a b) c) d
+
+- - - a
+  | | b
+  | c
+  d
+
+a b, c, d
+
+saw(watching(and(Alice, Bob), Charles), David)
+Alce and Bob, watching Charles, saw David.
+
+---------------------------------------------
+((a b) (c d))    NEW
+
+- - a
+  | b
+  - c
+    d
+
+a b | c d
+saw(and(Alice, Bob), and(Charles, david))
+Alice and Bob, saw Charles and David
+
+
+BONUS PTS:
+
+((a (b c)) d) e
+
+- - - a
+  | | - b
+  | |   c
+  | d
+  e
+
+(Alice watching (Bob and Charles)) saw David) recalls Emily.
+recalls(saw(watching(Alice, and(Bob, Charles)), david), Emily)
+Alice, watching Bob and Charles, saw David, recalls Emily.

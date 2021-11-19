@@ -1,0 +1,7 @@
+Bob is a man of the Left which adds some heft to his warning to his ideological compatriots that there are often awful consequences to bad ideas.
+Bob is a (man of the Left) (which adds some heft) to (his (warning to (his ideological compatriots))) that (there (often are) ((awful consequences) to (bad ideas)).
+Bob is a man of the Left, which adds some heft, to his warning to, his ideological compatriots, that there often are, awful consequences, to bad ideas.
+
+(Bob is a (man of the Left)) which adds (some heft to (his warning))
+
+((x (x x)) (x x))

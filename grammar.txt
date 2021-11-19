@@ -1,0 +1,41 @@
+I saw Alice and Bob.
+I saw (Alice and Bob).
+I saw Alice and Bob.
+
+I saw Alice and Bob together.
+I saw (Alice and Bob) together.
+I saw Alice and Bob, together.
+
+I saw Alice and Bob from accounting.
+I saw Alice and (Bob from accounting).
+I saw Alice and, Bob from accounting.
+I saw Alice, and Bob from accounting.
+
+I saw (Alice and Bob) from accounting..
+I saw Alice and Bob, from accounting.
+
+I saw Alice and Bob the sailor.
+I saw Alice and (Bob the sailor).
+I saw Alice and, Bob the sailor.
+I saw Alice, and Bob the sailor.
+
+I saw Alice and Bob in New York.
+I saw (Alice and Bob) in New York.
+I saw Alice and Bob, in New York.
+
+I saw Alice and Bob from New York.
+I saw (Alice and Bob) from New York.
+I saw Alice and Bob, from New York.
+
+I saw Alice and (Bob from New York).
+I saw Alice and, Bob from New York. 
+I saw Alice, and Bob from New York.
+
+I saw Alice and Bob the lawyers.
+I saw (Alice and Bob) the lawyers.
+I saw Alice and Bob, the lawyers.
+
+I saw Alice and Bob saw me.
+I saw Alice and (Bob saw me).
+I saw Alice and, Bob saw me.
+I saw Alice, and Bob saw me.

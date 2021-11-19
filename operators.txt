@@ -1,0 +1,33 @@
+can we use commas to account for every possible parenthesizaton?
+
+default:
+a / (b / (c / d))
+a / b / c / d
+Alice saw Bob with Charles and David
+
+((a / b) / c) / d
+a / b, / c, /d
+Alice and Bob, without Charles, met David
+
+(a / b) / (c / d)
+a / b, / c / d
+Alice and Bob, played Charles and David
+
+a / ((b / c) / d)
+a, / b / c, / d
+Alice saw Bob and Charles, talking to David
+
+a / (b / ((c / d) / e))
+a / b / c / d, / e
+Alice thinks Bob saw Charles and David, talking to Emile
+WRONG: parses to (a / (b / (c / d))) / e
+Alice thinks, Bob saw Charles and David, talking to Emile
+WRONG: parses to a / ((b / (c / d)) / e)
+break it down:
+
+b / ((c / d) / e)
+Bob saw, Charles and David, talking to Emile
+a / (b / ((c / d) / e))
+Alice thinks, Bob saw, Charles and David, talking to Emile
+
+a / (b / (c / d) / e)

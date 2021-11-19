@@ -1,0 +1,45 @@
+x  x
+
+
+ x  x  x
+(x  x) x
+
+
+  x  x  x  x
+Alice saw Bob watching Charlie and David
+
+ |x  x  x| x
+Alice joined Bob and Charlie, watching David
+
+
+  x |x  x| x
+Alice saw, Bob and Charlie, watching David
+Alice saw: Bob and Charlie, watching David
+
+
+||x  x| x| x
+Alice and Bob, joined Charlie, watching David
+
+x (x ((x x) x))
+x x (x x) x
+a b |c d| e
+Alice saw Bob, watching Charlie and David, greet Emily
+
+((x (x (x x))) x)
+(x x x x) x
+|x x x x| x
+Alice saw Bob watching Charlie and David, reported Emily
+
+((x ((x x) x)) x)
+(x (x x) x) x
+(a (b c) d) x
+Alice saw, Bob and Charlie, watching David, repored Emily
+
+((((x x) x) x) x)
+(((x x) x) x) x
+   a b) c) d) e
+Alice and Bob, saw Charlie, watching David, reported Emily
+
+(x (((x x) x) x))
+ a  ((b c) d) x
+Alice saw, Bob and Charlie, watching David, greet Emily

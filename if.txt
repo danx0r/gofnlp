@@ -1,0 +1,119 @@
+If the red block is on the table, put it in the basket.
+
+  if
+  |_________________
+  |                 |
+is_on             put_in
+  |_______          |_________________
+  |       |         |                 |
+ the     the    it(the-red-block)    the
+  |       |                           | 
+ red    table                       basket
+  |
+block
+
+
+
+BAAD:
+
+If the red block is on the table put it in the basket.
+
+  if
+  |_________________
+  |                 |
+is_on              ???
+  |_______
+  |       |
+ the     the
+  |       |
+ red    put_in
+  |       |_______
+block     |       |
+         the     the
+          |       |
+        table   basket
+
+
+Put the block that is on the table in the basket.
+
+ put_in
+   |_____________
+   |             |
+that_is_on      the
+   |             |
+  the          basket
+   |
+ table
+
+
+Put the block on the table in the basket unless it is the red block.
+
+Put the ((block on the table) in the basket) unless ((the block on the table) is (the red block)).
+
+GOOD
+
+unless
+  |________________
+  |                |
+put_in             is
+  |______          |______
+  |      |         |      |
+block  basket    block   red
+ on               on    block
+table            table
+
+BAD
+
+Put the (block on the (table in the (basket unless the (block on the (table is (the red block))))))
+
+put_on
+  |_____
+  |     |
+block   in
+        |_______
+        |       |
+       table  unless
+                |_____
+                |     |
+              basket  on
+                      |____
+                      |    |
+                    block  is
+                           |______
+                           |      |
+                         table   red
+                                block
+
+
+PRETTY
+
+Put the block on the table in the basket unless it is the red block.
+Put ((the block on the table) in the basket) unless (the block on the table) is the red block.
+Put the block on the table, in the basket, unless the block on the table, is the red block.
+
+              unless
+           _____/\______
+          /             \
+       put_in            is
+       __/\__           _/\_
+      /      \         /    \
+    on     basket     on    red
+    /\                /\   block
+   /  \              /  \
+block table       block table
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Which blocks are on the table?
+
+Which_are_on
+blocks        table
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+How many blocks are on the table?
+
+how_many
+ on
+blocks table
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

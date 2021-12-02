@@ -27,6 +27,18 @@ I went-to the-store so, I could-buy a-cigar
 OR?
 I went-to the-store, so I could-buy a-cigar
 
+                   so
+        ___________|__________
+       |                      |
+     went-to              could-buy
+ ______|______          ______|______
+|             |        |             |    
+I         the-store    I          a-cigar
+
+POLISH NOTE:
+I the-store went-to I a-cigar could-buy so
+
+========================================================
 I went to the store where Alphonzo works nights
 I went to (the-store where (Alphonzo works nights))
 I went-to (the-store where (Alphonzo works nights
@@ -34,3 +46,69 @@ I went-to, the-store where, Alphonzo works nights
 OR?
 I went-to, the-store, where Alphonzo works nights
 
+
+    wemt-to
+ _____|_____________
+|                   |
+|                 where
+|            _______|________
+I           |                |
+        the-store          works
+                          ___|___
+                         |       |
+                      Alphonzo  nights
+
+
+I went-to the-store where Alphonzo works nights
+
+PON:
+I the-store Alphonzo nights works where went-to
+
+
+
+I told the teacher that the dog ate my homework
+I told the-teacher that (the-dog ate my-homework)
+I told the-teacher that (the-dog ate my-homework
+I told the-teacher that, the-dog ate my-homework
+
+                 that
+        __________|__________
+       |                     |
+     told                   ate
+ ______|_____          ______|______
+|            |        |             |
+I      the-teacher the-dog     my-homework
+
+=================================================
+I stopped Barney from telling Mike the story
+I stopped Barney from (telling Mike the story)
+I stopped Barney from (telling Mike the story
+I stopped Barney from, telling Mike the story
+OR?
+I stopped Barney, from telling Mike the story
+
+               from
+        ________|_________
+       |                  |
+    stopped            telling
+ ______|_______           |_____________
+|              |              |         |
+I            Barney          Mike   the-story
+
+=================================================
+
+I told Barney from class that homeroom was cancelled
+I told (Barney from class) that (homeroom was cancelled)
+I told (Barney from class) that (homeroom was cancelled
+I told, Barney from class, that, homeroom was cancelled
+
+                   that
+       _____________|_______________
+      |                             |
+     told                          was
+ _____|________                 ____|_____
+|              |               |          |
+I             from          homeroom  cancelled
+          _____|_____
+         |           |
+      Barney       class

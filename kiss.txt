@@ -10,10 +10,15 @@ I  want (me kiss-badly you)
 
 
 I want (me kiss you) badly
+I want, me kiss you, badly
+I want: me kiss you; badly
+             badly
+     __________|
+    |
    want
- ___|___________
-|       |       |
-|      kiss    badly
+ ___|___
+|       |
+|      kiss      
 I     __|__
      |     |
      me   you
@@ -23,13 +28,18 @@ I me you kiss want badly
 
 NOT:
 I want (me kiss you badly)
+I want: me kiss you badly.
    want
- ___|___
+ ___|__________
+|              |
+|             badly
+|        ______|
 |       |
-|      kiss      
-I     __|________
-     |     |     |
-     me   you   badly
+|      kiss
+I     __|__
+     |     |
+     me   you
+
 
 I me you kiss badly want
 
@@ -50,6 +60,7 @@ I went-to the-store so (I could-buy a-cigar
 I went-to the-store so, I could-buy a-cigar
 OR?
 I went-to the-store, so I could-buy a-cigar
+I went to the store; so: I could buy a cigar.
 
                    so
         ___________|__________
@@ -68,8 +79,7 @@ I went to (the-store where (Alphonzo works nights))
 I went-to (the-store where (Alphonzo works nights
 I went-to, the-store where, Alphonzo works nights
 OR?
-I went-to, the-store, where Alphonzo works nights
-
+I went to: the store; where: Alphonzo works nights.
 
     went-to
  _____|_____________
@@ -94,6 +104,7 @@ I told the teacher that the dog ate my homework
 I told the-teacher that (the-dog ate my-homework)
 I told the-teacher that (the-dog ate my-homework
 I told the-teacher that, the-dog ate my-homework
+I told the-teacher that: the dog ate my homework
 
                  that
         __________|__________
@@ -109,7 +120,7 @@ I stopped Barney from (telling Mike the story)
 I stopped Barney from (telling Mike the story
 I stopped Barney from, telling Mike the story
 OR?
-I stopped Barney, from telling Mike the story
+I stopped Barney from: telling Mike the story.
 
                from
         ________|_________
@@ -125,6 +136,7 @@ I told Barney from class that homeroom was cancelled
 I told (Barney from class) that (homeroom was cancelled)
 I told (Barney from class) that (homeroom was cancelled
 I told, Barney from class, that, homeroom was cancelled
+I told: Barney from class; that: homeroom was cancelled.
 
                    that
        _____________|_______________

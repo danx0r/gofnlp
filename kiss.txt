@@ -6,10 +6,34 @@ I want-badly (me kiss you)
 I want-badly (me kiss you
 I want-badly, me kiss you
 
+I  want (me kiss-badly you)
 
-I want (me kiss-badly you)
+
+I want (me kiss you) badly
+   want
+ ___|___________
+|       |       |
+|      kiss    badly
+I     __|__
+     |     |
+     me   you
+
+I me you kiss want badly
 
 
+NOT:
+I want (me kiss you badly)
+   want
+ ___|___
+|       |
+|      kiss      
+I     __|________
+     |     |     |
+     me   you   badly
+
+I me you kiss badly want
+
+======================================
 We ate the meal in the kitchen
 (We ate the meal) in the kitchen
 We ate the meal in the kitchen
@@ -47,7 +71,7 @@ OR?
 I went-to, the-store, where Alphonzo works nights
 
 
-    wemt-to
+    went-to
  _____|_____________
 |                   |
 |                 where

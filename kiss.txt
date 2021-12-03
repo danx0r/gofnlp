@@ -104,7 +104,7 @@ I told the teacher that the dog ate my homework
 I told the-teacher that (the-dog ate my-homework)
 I told the-teacher that (the-dog ate my-homework
 I told the-teacher that, the-dog ate my-homework
-I told the-teacher that: the dog ate my homework
+I told the-teacher that: the dog ate my homework.
 
                  that
         __________|__________

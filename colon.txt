@@ -18,3 +18,22 @@ If the blue block is on the table then put it in the basket and put the red bloc
 If (the blue block is on the table) then ((put it in the basket) and (put the red block on the table)) otherwise (put the blue block on the table).
 If the blue block is on the table then (put it in the basket and (put the red block on the table)) otherwise put the blue block on the table.
 If the blue block is on the table then: put it in the basket and: put the red block on the table -- otherwise put the blue block on the table.
+
+                                  If
+    ______________________________|__________________________________
+   |                    |                                            |
+   |                   then                                         else
+   |                     |                                            |
+   on                   and  _______________                        put-on
+   |_______________      |--'               |                         |_______
+   |               |    put-in            put-on                      |       |
+  blue           table     |_____           |____                    blue   table
+                           |     |          |    |
+                          blue basket      red table
+
+blue-block table on if blue-block basket put-in red-block table put-on and else blue-block table put-on then
+
+blue-block table on blue-block basket put-in red-block table put-on and blue-block table put-on if-then-else
+
+NOTE: actions (function defs): on, put-in, put-on, and, if-then-else
+      things: blue-block, table, basket, red-block

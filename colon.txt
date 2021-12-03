@@ -1,5 +1,5 @@
 Alice saw Bob and Charlie beat Dave and Elmo at pingpong.
 Alice saw (((Bob and Charlie) beat (Dave and Elmo)) at pingpong).
 Alice saw (Bob and Charlie beat (Dave and Elmo)) at pingpong.
+Alice saw: Bob and Charlie beat: Dave and Elmo;; at pingpong.
 Alice saw: Bob and Charlie beat: Dave and Elmo -- at pingpong.
-

@@ -3,3 +3,18 @@ Alice saw (((Bob and Charlie) beat (Dave and Elmo)) at pingpong).
 Alice saw (Bob and Charlie beat (Dave and Elmo)) at pingpong.
 Alice saw: Bob and Charlie beat: Dave and Elmo;; at pingpong.
 Alice saw: Bob and Charlie beat: Dave and Elmo -- at pingpong.
+
+I thought I saw a pussycat but it was actually a large raccoon.
+(I thought (I saw a pussycat)) but (it was actually) a large raccoon.
+I thought (I saw a pussycat) but (it was actually a large raccoon).
+I thought: I saw a pussycat; but: it was actually a large raccoon.
+
+I got waylaid on my way to the store by a homeless man asking for change.
+(I got waylaid) on (my way to the store) by (a homeless man asking for change).
+I got waylaid on (my way to the store) by (a homeless man asking for change).
+I got waylaid on: my way to the store; by: a homeless man asking for change.
+
+If the blue block is on the table then put it in the basket and put the red block on the table otherwise put the blue block on the table.
+If (the blue block is on the table) then ((put it in the basket) and (put the red block on the table)) otherwise (put the blue block on the table).
+If the blue block is on the table then (put it in the basket and (put the red block on the table)) otherwise put the blue block on the table.
+If the blue block is on the table then: put it in the basket and: put the red block on the table -- otherwise put the blue block on the table.

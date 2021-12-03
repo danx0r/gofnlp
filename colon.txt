@@ -37,3 +37,51 @@ blue-block table on blue-block basket put-in red-block table put-on and blue-blo
 
 NOTE: actions (function defs): on, put-in, put-on, and, if-then-else
       things: blue-block, table, basket, red-block
+
+stack:
+BLUE (put BLUE on stack)
+TABLE (put TABLE on stack)
+ON (takes 2 off stack leaves bool)
+BLUE
+BASKET
+PUT-IN (takes 2 off stack, leaves function call)
+RED
+TABLE
+PUT-ON (takes 2 off stack, leaves function call)
+AND (takes 2 off stack, leaves func call now 3 calls on stack)
+BLUE
+TABLE
+PUT-ON
+IF-THEN-ELSE (if stack+2 call stack+1 else call stack+0)
+
+
+While the number of blocks on the table is more than 0 move a block from the table to the basket.
+While (the number of blocks on the table) is more than 0 (move a block (from the table to the basket)).
+While: the number of blocks on the table; is more than 0: move a block: from the table to the basket.
+
+                 while
+             ______|_________________
+            |                        |
+            |(is)                 move-from
+         ___|______             _____|_________
+        |          |           |        |      |
+      num-on   More-than-0  a-block   table  basket
+     ___|___
+    |       | 
+ blocks   table
+
+code        stack
+BLOCK       block
+TABLE       block table
+BASKET      block table basket
+MOVE-FROM   move-from(block, table, basket)
+BLOCKS      move-from blocks
+TABLE       move-from blocks table
+NUM-ON      move-from int
+0           move-from int 0
+GT          move-from bool
+WHILE       (empty)
+
+block table basket move-from blocks table num-on 0 more-than while.
+
+While blocks on table more-than 0 move block from table to basket.

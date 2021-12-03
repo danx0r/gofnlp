@@ -1,0 +1,150 @@
+I want to kiss you badly
+I want me to kiss you badly
+I want me kiss you badly
+
+I want-badly (me kiss you)
+I want-badly (me kiss you
+I want-badly, me kiss you
+
+I  want (me kiss-badly you)
+
+
+I want (me kiss you) badly
+I want, me kiss you, badly
+I want: me kiss you; badly
+             badly
+     __________|
+    |
+   want
+ ___|___
+|       |
+|      kiss      
+I     __|__
+     |     |
+     me   you
+
+I me you kiss want badly
+
+
+NOT:
+I want (me kiss you badly)
+I want: me kiss you badly.
+   want
+ ___|__________
+|              |
+|             badly
+|        ______|
+|       |
+|      kiss
+I     __|__
+     |     |
+     me   you
+
+
+I me you kiss badly want
+
+======================================
+We ate the meal in the kitchen
+(We ate the meal) in the kitchen
+We ate the meal in the kitchen
+
+I ate the food in the fridge
+I ate (the food in the fridge)
+I ate (the food in the fridge
+I ate, the food in the fridge
+
+
+I went to the store so I could buy a cigar
+(I went-to the-store) so (I could-buy a-cigar)
+I went-to the-store so (I could-buy a-cigar
+I went-to the-store so, I could-buy a-cigar
+OR?
+I went-to the-store, so I could-buy a-cigar
+I went to the store; so: I could buy a cigar.
+
+                   so
+        ___________|__________
+       |                      |
+     went-to              could-buy
+ ______|______          ______|______
+|             |        |             |    
+I         the-store    I          a-cigar
+
+POLISH NOTE:
+I the-store went-to I a-cigar could-buy so
+
+========================================================
+I went to the store where Alphonzo works nights
+I went to (the-store where (Alphonzo works nights))
+I went-to (the-store where (Alphonzo works nights
+I went-to, the-store where, Alphonzo works nights
+OR?
+I went to: the store; where: Alphonzo works nights.
+
+    went-to
+ _____|_____________
+|                   |
+|                 where
+|            _______|________
+I           |                |
+        the-store          works
+                          ___|___
+                         |       |
+                      Alphonzo  nights
+
+
+I went-to the-store where Alphonzo works nights
+
+PON:
+I the-store Alphonzo nights works where went-to
+
+
+
+I told the teacher that the dog ate my homework
+I told the-teacher that (the-dog ate my-homework)
+I told the-teacher that (the-dog ate my-homework
+I told the-teacher that, the-dog ate my-homework
+I told the-teacher that: the dog ate my homework
+
+                 that
+        __________|__________
+       |                     |
+     told                   ate
+ ______|_____          ______|______
+|            |        |             |
+I      the-teacher the-dog     my-homework
+
+=================================================
+I stopped Barney from telling Mike the story
+I stopped Barney from (telling Mike the story)
+I stopped Barney from (telling Mike the story
+I stopped Barney from, telling Mike the story
+OR?
+I stopped Barney from: telling Mike the story.
+
+               from
+        ________|_________
+       |                  |
+    stopped            telling
+ ______|_______           |_____________
+|              |              |         |
+I            Barney          Mike   the-story
+
+=================================================
+
+I told Barney from class that homeroom was cancelled
+I told (Barney from class) that (homeroom was cancelled)
+I told (Barney from class) that (homeroom was cancelled
+I told, Barney from class, that, homeroom was cancelled
+I told: Barney from class; that: homeroom was cancelled.
+
+                   that
+       _____________|_______________
+      |                             |
+     told                          was
+ _____|________                 ____|_____
+|              |               |          |
+I             from          homeroom  cancelled
+          _____|_____
+         |           |
+      Barney       class

@@ -1,0 +1,18 @@
+Put the block on the table.
+block table put-on
+
+Put the block in the basket.
+basket block put-in
+
+Where is the block?
+block where-is
+
+How many blocks are on the table?
+blocks table are-on how-many
+
+Is the block in the basket?
+block basket is-in
+
+The block is on the table
+block table is-on
+

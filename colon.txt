@@ -20,12 +20,12 @@ If the blue block is on the table then (put it in the basket and (put the red bl
 If the blue block is on the table then: put it in the basket and: put the red block on the table -- otherwise put the blue block on the table.
 
                                   If
-    ______________________________|__________________________________
-   |                    |                                            |
-   |                   then                                         else
-   |                     |                                            |
-   on                   and  _______________                        put-on
-   |_______________      |--'               |                         |_______
+           _______________________|___________________________________
+          |             |                                             |
+          |            then                                        otherwise
+          |              |                                            |
+         on             and                                         put-on
+    ______|________      |------------------.                         |_______
    |               |    put-in            put-on                      |       |
   blue           table     |_____           |____                    blue   table
                            |     |          |    |
@@ -83,5 +83,3 @@ GT          move-from bool
 WHILE       (empty)
 
 block table basket move-from blocks table num-on 0 more-than while.
-
-While blocks on table more-than 0 move block from table to basket.

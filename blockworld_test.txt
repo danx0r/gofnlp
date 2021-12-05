@@ -1,7 +1,1 @@
-Put the block on the table.
-Put the block in the basket.
-Where is the block?
-How many blocks are on the table?
-Is the block in the basket?
-The block is on the table
-
+Put a block on the table.

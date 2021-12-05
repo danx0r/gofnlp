@@ -16,7 +16,7 @@ def process_token():
         print ("CALL", funcname)
         return globals()[funcname]()
     else:
-        print ("SKIP:", token)
+        print ("PRIM:", token)
         return token
 
 def tokenize_sentence(s):

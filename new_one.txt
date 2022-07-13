@@ -1,0 +1,44 @@
+We build products with joy.
+(Both in that our products bring joy, and in that we joyfully build them.)
+
+We build (products with joy).
+We (build products) with joy.
+We (build with joy) products.
+
+
+We build (products with joy).
+We build: products with joy
+
+   build
+  ___|______________
+ |                  |
+we                with
+              ______|___
+             |          |
+         products      joy
+
+FORTH:
+
+we products joy with build
+
+============================================================
+
+We (build products) with joy.
+We: build products; with joy.
+
+   build
+  ___|_____________
+ |         |       |
+we      products with
+                    \__
+                       \
+                      joy
+                    
+
+FORTH:
+
+we products build joy with ??? (hmm)
+
+
+
+

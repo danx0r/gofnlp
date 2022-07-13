@@ -1,0 +1,9 @@
+Koonin is a personal friend and occasional colleague of a member of my PhD committee.
+
+> How is it simultaneously possible to be a personal friend to someone and not have had the opportunity to interact with that person?
+
+WRONG:
+(Koonin is a personal friend) and (occasional colleague of (a member of my PhD committee)).
+
+RIGHT:
+Koonin is ((a personal friend and occasional colleague) of (a member of my PhD committee)).
